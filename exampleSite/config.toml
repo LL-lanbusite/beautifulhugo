@@ -1,6 +1,6 @@
 baseurl = "https://username.github.io"
 DefaultContentLanguage = "en"
-title = "Beautiful Hugo"
+title = "Lz"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -45,9 +45,9 @@ pygmentsCodefencesGuessSyntax = true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
-  name = "Some Person"
-  website = "yourwebsite.com"
-  email = "youremail@domain.com"
+  name = "Lz"
+  website = "https://www.notion.so/cde45c3103b04a2dbd9009b7d568bc75?v=0c17bd9cdf324f41ac507987c01b0299&pvs=4"
+  email = "zllmejxt@163.com"
   facebook = "username"
   github = "username"
   gitlab = "username"
