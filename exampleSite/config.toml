@@ -1,4 +1,4 @@
-baseurl = "https://username.github.io"
+baseurl = "https://beautifulhugo.vercel.app/"
 DefaultContentLanguage = "zh-cn"
 title = "Lz-博客"
 theme = "beautifulhugo"
