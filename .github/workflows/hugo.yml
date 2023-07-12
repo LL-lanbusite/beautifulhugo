@@ -68,5 +68,5 @@ jobs:
         if: >
           success()
           && github.ref == 'refs/heads/master'
-          && github.repository == 'halogenica/beautifulhugo'
+          && github.repository == 'LL-lanbusite/beautifulhugo'
         uses: actions/deploy-pages@v1
