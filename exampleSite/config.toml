@@ -1,6 +1,6 @@
 baseurl = "https://username.github.io"
-DefaultContentLanguage = "en"
-title = "Lz"
+DefaultContentLanguage = "zh-cn"
+title = "Lz-博客"
 theme = "beautifulhugo"
 pygmentsStyle = "trac"
 pygmentsUseClasses = true
@@ -46,7 +46,7 @@ pygmentsCodefencesGuessSyntax = true
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
   name = "Lz"
-  website = "https://www.notion.so/cde45c3103b04a2dbd9009b7d568bc75?v=0c17bd9cdf324f41ac507987c01b0299&pvs=4"
+  website = "beautifulhugo.vercel.app"
   email = "zllmejxt@163.com"
   facebook = "username"
   github = "username"
@@ -78,12 +78,12 @@ pygmentsCodefencesGuessSyntax = true
   strava = "userid"
 
 [[menu.main]]
-    name = "Blog"
+    name = "主页"
     url = ""
     weight = 1
 
 [[menu.main]]
-    name = "About"
+    name = "归档"
     url = "page/about/"
     weight = 3
 
