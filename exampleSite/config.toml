@@ -1,4 +1,4 @@
-baseurl = "https://beautifulhugo.vercel.app/"
+baseurl = "https://ll-lanbusite.github.io/beautifulhugo/"
 DefaultContentLanguage = "zh-cn"
 title = "Lz-博客"
 theme = "beautifulhugo"
